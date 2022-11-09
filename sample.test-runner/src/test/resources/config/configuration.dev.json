@@ -1,0 +1,16 @@
+{
+  "key": "dev",
+  "driver-directory": "C:\\tools\\chromedriver",
+  "local-environment": "mac",
+  "default-wait-time": "5000",
+  "browser": "chrome",
+  "sites": {
+    "default-site": "https://default-site.com",
+    "tools-qa": "https://demoqa.com",
+    "google": "https://www.google.com",
+    "ant-design": "https://ant.design/components",
+    "blazorise-demo": "https://antdesigndemo.blazorise.com",
+    "the-internet": "https://the-internet.herokuapp.com",
+    "petstore": "https://petstore.octoperf.com/"
+  }
+}

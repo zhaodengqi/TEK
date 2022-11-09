@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/coral-reef/coral-reef.iml" filepath="$PROJECT_DIR$/coral-reef/coral-reef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample.auto.iml" filepath="$PROJECT_DIR$/sample.auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample.domain/sample.domain.iml" filepath="$PROJECT_DIR$/sample.domain/sample.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample.infrastructure/sample.infrastructure.iml" filepath="$PROJECT_DIR$/sample.infrastructure/sample.infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample.test-runner/sample.test-runner.iml" filepath="$PROJECT_DIR$/sample.test-runner/sample.test-runner.iml" />
+    </modules>
+  </component>
+</project>
